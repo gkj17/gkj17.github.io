@@ -1,5 +1,5 @@
 # Site settings
-name: Less Or More
+name: 学习
 email: guan_kejian@163.com
 author: 层层迷雾
 url: https://gkj17.github.io
@@ -17,7 +17,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: luoyan35714
+github_username: 层层迷雾
 
 # Build settings
 markdown: kramdown
